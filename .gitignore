@@ -49,7 +49,7 @@ summary.md
 .cursor/
 
 # boj
-.boj문제
+.boj*/**/*
 
 # models
 .models
